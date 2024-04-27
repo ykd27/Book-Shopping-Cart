@@ -16,7 +16,7 @@
 
 1. Open command prompt. Go to a directory where you want to clone this project. Use this command to clone the project.
    ```
-     git clone https://github.com/rd003/BookShoppingCart-Mvc
+     git clone https://github.com/ykd27/BookShoppingCart-Mvc
    ```
 2. Go to the directory where you have cloned this project, open the directory `BookShoppingCart-Mvc`. You will find a file with name `BookShoppingCartMvc.sln`. Double click on this file and this project will be opened in Visual Studio.
 3.  open `appsettings.json` file and update connection string
