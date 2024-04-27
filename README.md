@@ -1,7 +1,5 @@
 # BookShoppingCartMvc (A basic e-comm system for beginners) 📚🛒
-It is a source code of the youtube tutorial on [book shopping cart in .net core mvc](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4). I have tried to explain how shopping cart 🛒 works in dot net core mvc. A ⭐ in repository is highly appreciated, helps to promote my content. 
 
-📢 Initially , this project was built with .net 7.  But it works fine with .net 6+ and now it is **Upgraded to .net 8.0.** I will try to keep it up to date.
 
 ## Screenshots
 
@@ -12,15 +10,13 @@ It is a source code of the youtube tutorial on [book shopping cart in .net core 
    - MS SQL (Database)
    - Entity Framework Core (ORM)
    - Bootstrap (frontend)
-#### Note ⚠️
-There is **no admin panel** for adding the products. Since I've already built multiple tutorials on CRUD related projects, so I do not want to waste the time to create the data entry system. I have directly added data to the database. [Needed data is provided in scripts in this doc](https://github.com/rd003/BookShoppingCart-Mvc/blob/master/README.md#data-entry-).
-If you are new to .net then I will recommend you to follow the full playlist of this project to understand the working.
+
 
 #### Video tutorial 📺
    [Youtube playlist](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4)
 
 ## How to run the project? 🌐
-I am assuming that, you have already installed **Visual Studio 2022** (It is the latest as of march,2024) and **MS SQL Server Management Studio** (I am using mssql server 2022 as of march,2024). Now, follow the following steps.
+
 1. Open command prompt. Go to a directory where you want to clone this project. Use this command to clone the project.
    ```
      git clone https://github.com/rd003/BookShoppingCart-Mvc
@@ -185,14 +181,4 @@ Please, run these scripts in a order. Genre data must be added before book.
 
 If you find this repository useful, then consider to leave a ⭐.
 
-Connect with me
-
-👉 YouTube: https://youtube.com/@ravindradevrani
-
-👉 Twitter: https://twitter.com/ravi_devrani
-
-Become a supporter ❣️:
-You can buy me a coffee 🍵 : https://www.buymeacoffee.com/ravindradevrani
-
-Thanks a lot 🙂🙂
 
