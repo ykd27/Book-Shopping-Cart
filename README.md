@@ -22,9 +22,9 @@
 3.  open `appsettings.json` file and update connection string
  
    ```
-     "ConnectionStrings": {
-       "conn": "data source=your_server_name;initial catalog=MovieStoreMvc; integrated security=true;encrypt=false"
-     }
+      "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost; port=3306; Database=BookShoppingCartMvc;user=root; password=************; Persist security info=true"
+  },
    ```
    
 4. Delete `Migrations` folder
