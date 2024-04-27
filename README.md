@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![homepage](https://github.com/rd003/BookShoppingCart-Mvc/blob/master/screenshot1.jpg)
+![homepage](https://github.com/ykd27/Book-Shopping-Cart/blob/master/Screenshot%20(534).png)
 
 ## Tech stack 🧑‍💻
    - Dotnet core mvc
