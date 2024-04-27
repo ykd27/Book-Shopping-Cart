@@ -12,9 +12,6 @@
    - Bootstrap (frontend)
 
 
-#### Video tutorial 📺
-   [Youtube playlist](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4)
-
 ## How to run the project? 🌐
 
 1. Open command prompt. Go to a directory where you want to clone this project. Use this command to clone the project.
